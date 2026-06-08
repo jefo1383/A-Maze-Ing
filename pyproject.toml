@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mazegen"
+version = "1.0.0"
+description = "Maze generator (MazeGenerator) using Prim algorithm"
+authors = [
+    {name = "Jeremy Foeller"},
+    {name = "Yann Franco"}
+]
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["mazegen"]
