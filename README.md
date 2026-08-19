@@ -2,6 +2,8 @@ _This activity has been created as part of the 42 curriculum by jfoeller and yaf
 
 # 🌀 A_Maze_ing
 
+https://github.com/user-attachments/assets/ec68d520-8a26-42c4-b892-f26ec36d4f80
+
 Un générateur et solveur de labyrinthes interactif en Python, utilisant la **MiniLibX**. 
 Ce projet a été réalisé en binôme dans le cadre du cursus 42, avec une séparation stricte des responsabilités entre la génération/infrastructure (Dev B) et le rendu visuel/pathfinding (Dev A).
 
